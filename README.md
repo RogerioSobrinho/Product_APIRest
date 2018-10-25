@@ -1,2 +1,2 @@
-# Produtos_APIRest_SPJPA
-API Rest using JPA
+# Product APIRest
+API Rest for register products using Spring Boot + JPA + Hibernate + MySQL
